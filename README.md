@@ -1,10 +1,8 @@
 # v14-moderation-boattt
-**Tagsız** sunucularınız için kullanabileceğiniz güzel bir V14 Moderasyon altyapısıdır.
-Tamamiyle ortalıkta herhangi bir bot bulunmadığı için sizlerle paylaşacağım, başka hiç bir amacı yok =)
+**Tagsız** sunucularınız için kullanabileceğiniz güzel bir V14 Moderasyon altyapısıdır.\nTamamiyle ortalıkta herhangi bir bot bulunmadığı için sizlerle paylaşacağım, başka hiç bir amacı yok =)
 
 # İletişim
-insta: the.strg
-dc: Striga#0618
+insta: the.strg\ndc: Striga#0618
 
 # Açıklama
 Selam arkadaşlar, bundan bir kaç hafta önce V14 bir moderasyon botu yapmıştım. Ortalıkta V14 moderasyon botu olmadığı için sizlere çok uzun bir süre sonra kıyak geçeyim dedim. 25 Starda dosyaları paylaşırım.
